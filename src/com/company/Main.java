@@ -6,5 +6,13 @@ public class Main {
         System.out.println("Hello system");
         System.out.println("Hello system");
         System.out.println("Hello system");
+        System.out.println("Hello system");
+        System.out.println("Hello system");
+        System.out.println("Hello system");
+        System.out.println("Hello system");
+        System.out.println("Hello system");
+        System.out.println("Hello system");
+        System.out.println("Hello system");
+        System.out.println("Hello system");
     }
 }
